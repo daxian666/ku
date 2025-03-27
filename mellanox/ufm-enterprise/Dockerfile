@@ -1,2 +1,2 @@
-FROM registry-1.docker.io/mellanox/ufm-enterprise:latest
+FROM hub.docker.com/u/mellanox/ufm-enterprise:latest
 MAINTAINER Q
